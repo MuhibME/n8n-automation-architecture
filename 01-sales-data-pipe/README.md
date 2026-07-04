@@ -1,4 +1,5 @@
 ## 📊 Project 1: Multi-Branch Enterprise Sales Data Pipeline
+<img width="1568" height="756" alt="image" src="https://github.com/user-attachments/assets/bd7cc393-ff40-49a0-8b8f-2cbf10d53c57" />
 
 ### 🔍 Project Overview
 In enterprise environments, different departments require distinct outputs from a single primary data snapshot. Running duplicate API requests for separate workflows is highly inefficient and risks data discrepancies. 
