@@ -22,4 +22,6 @@ n8n-automation-architecture/
 ├── 02-api-integration-pipeline/
 │   ├── workflow.json                 ⬅️ (Production Blueprint Payload)
 │   └── README.md                     ⬅️ (This Documentation Case Study)
-└── 03-error-monitoring-systems/       ⬅️ (Coming Next)
+└── 03-Intelligent Invoice Audit & Accounts Payable Engine/
+    ├── Intelligent Invoice Audit & Accounts Payable Engine.json                 
+    └── README.md        
